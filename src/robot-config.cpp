@@ -7,7 +7,7 @@ using code = vision::code;
 
 
 // A global instance of brain used for printing to the V5 Brain screen
-brain  Brain;
+brain Brain;
 
 
 // VEXcode device constructors
